@@ -1,0 +1,9 @@
+name = "clickup-task-master"
+type = "javascript"
+
+account_id = "07e544fea61aa358f422082064b27680"
+workers_dev = true
+compatibility_date = "2024-03-21"
+
+# Environment Variables (Stored in Cloudflare)
+vars = { CLICKUP_LIST_ID = "901605328722" }
